@@ -1,6 +1,6 @@
 ## AHUMADA FEDERICO
 ### Desarrollador de software .NET y Java. 
-- Tengo amplios conocimientos en base de datos relacionales, desarrollo web, cloud y unreal engine.
-- Paralelo a mi estudio universitario asisto a cursos dictados online. Actualmente aprendo Azure.
+- Tengo amplios conocimientos en base de datos, desarrollo web, videojuegos y cloud.
+- Paralelo a mi estudio universitario asisto a cursos dictados online.
 
 ¡Gracias por visitar mi perfil! 😊
